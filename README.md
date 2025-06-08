@@ -18,7 +18,7 @@ Whether you're feeling happy, sad, or neutral, the system provides music that ma
 
 ## 📊 How It Works
 
-```mermaid
+```
 graph LR
 A[Webcam Image] --> B[Emotion Prediction (CNN)]
 B --> C[Emotion Label]
