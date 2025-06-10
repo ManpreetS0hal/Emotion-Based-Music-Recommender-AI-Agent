@@ -8,7 +8,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # Load emotion model
-model = load_model("my_model_62.keras")
+model = load_model("my_model_69.keras")
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
 # Spotify API
